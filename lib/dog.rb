@@ -5,6 +5,6 @@ class Dog
   end
 
   def name
-  @dog.name = Fido  
+  @dog.name = Fido
   end
 end
