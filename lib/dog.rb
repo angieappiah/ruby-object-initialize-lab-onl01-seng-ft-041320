@@ -3,4 +3,6 @@ class Dog
     @dog = dog
     @breed = breed
   end
+
+  breed = dog.new("Muff")
 end
